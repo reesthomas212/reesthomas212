@@ -1,1 +1,8 @@
-## Hey 👋, 
+## Hey 👋, This is Rees Thomas
+[![Gmail Badge](https://img.shields.io/badge/-rees.thomas212@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rees.thomas212@gmail.com)](mailto:rees.thomas212@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-rees--thomas-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rees--thomas/)](https://www.linkedin.com/in/rees--thomas/) [![Github Badge](https://img.shields.io/badge/-reesthomas212-grey?style=flat&logo=github&logoColor=white&link=https://github.com/reesthomas212/)](https://www.github.com/reesthomas212/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/reesthomas212/)](https://github.com/reesthomas212/) <p align='left'>I graduated from the BI Analytics course at TripleTen, specializing in dataset analysis and interpretation. I also come from a software and quality assurance background, working most recently with different A.I. models and their capability to answer coding questions. </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1y1i56ACcCqQWX1uLm6RsDmgFv0MpvQlGqzHrQ1Cz4-E/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=reesthomas212 alt=reesthomas212 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=reesthomas212&show_icons=true&include_all_commits=true)](https://github.com/reesthomas212/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reesthomas212&layout=compact)](https://github.com/reesthomas212/github-readme-stats)
